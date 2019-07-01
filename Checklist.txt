@@ -1,0 +1,19 @@
+Ok    Desenvolvimento em sala de aula
+Ok    Desenvolvimento da proposta
+Ok    Componentes utilizados
+Ok    Layout
+Ok    Fluxo de telas
+Ok    Quantidade de telas produzidas
+Ok    Qualidade do código produzido (reuso, padrão de projeto, etc.)
+Ok    Utilização de frameworks e APIs
+Ok    (não é Ctrc+Ctrv - constitui do aluno que adotou ferramentas para incrementar
+    o projeto que exigiu estudo/pesquisa para o uso)
+
+    O projeto deve conter:
+    Utilizar Intent ou Fragment com passagem de parâmetro minimizando criação de telas
+    No mínimo cinco telas
+Ok    Tela de Splash com animação
+    Implementação de banco com Room ou outra Biblioteca de banco de dados
+    Uso de Dialog
+    Conexão de dados com a biblioteca Retrofit
+Ok    Uso da biblioteca Picasso

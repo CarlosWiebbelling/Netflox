@@ -10,10 +10,10 @@ Ok    (não é Ctrc+Ctrv - constitui do aluno que adotou ferramentas para increm
     o projeto que exigiu estudo/pesquisa para o uso)
 
     O projeto deve conter:
-    Utilizar Intent ou Fragment com passagem de parâmetro minimizando criação de telas
-    No mínimo cinco telas
+OK    Utilizar Intent ou Fragment com passagem de parâmetro minimizando criação de telas
+OK    No mínimo cinco telas
 Ok    Tela de Splash com animação
-    Implementação de banco com Room ou outra Biblioteca de banco de dados
-    Uso de Dialog
-    Conexão de dados com a biblioteca Retrofit
+OK    Implementação de banco com Room ou outra Biblioteca de banco de dados
+OK    Uso de Dialog
+OK    Conexão de dados com a biblioteca Retrofit
 Ok    Uso da biblioteca Picasso
